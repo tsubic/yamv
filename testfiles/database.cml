@@ -1,0 +1,8 @@
+<prop>
+ <atomArray>
+  <atom type="C" r="0.3" g="0.3" b="0.3" radius="67"/>
+  <atom type="H" r="1" g="1" b="1" radius="53"/>
+  <atom type="O" r="1" g="0" b="0" radius="48"/>
+  <atom type="N" r="0" g="0" b="0.8" radius="56"/>
+ </atomArray>
+</prop>
